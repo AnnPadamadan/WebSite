@@ -1,0 +1,60 @@
+h2{
+	font-family: "Comic Sans MS";
+	color: rgb(50,75, 175);
+}
+
+p{color: black;}
+
+.one{
+	background-color: rgb(145, 255, 222);
+}
+
+.one p{
+	font-family: "Ink Free";
+}
+
+.one button{
+	color: black;
+	padding: 10;
+	border-width:5;
+	margin: 10;	
+	font-family: "Comic Sans MS";
+}
+
+.re p{
+	color: red;
+}
+
+.ye p{
+	color: rgb(255, 190, 120);
+}
+
+.gr p{
+	color: green;
+}
+
+.bl p{
+	color: blue;
+}
+
+
+.noo p{
+	color: rgb(255, 190, 120);
+
+}
+
+.pa p{
+	color: yellow;
+}
+
+.fre p{
+	color: red;
+}
+
+.car p{
+	color: orange;
+}
+
+.ice p{
+	color: brown;
+}
